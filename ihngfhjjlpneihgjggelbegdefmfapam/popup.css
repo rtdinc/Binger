@@ -1,0 +1,77 @@
+body {
+	padding: 10px 20px !important;
+}
+
+h4 {
+	margin: 1px 0 0 0;
+	margin-bottom: 20px;
+}
+
+.dashboard-wrapper {
+	text-align: right;
+}
+
+#dashboardButton {
+	outline: none;
+}
+
+
+
+#searches-row, #delay-row {
+	margin-bottom: 20px;
+}
+
+.searches-span #appendedDropdownButton {
+	width: 40px !important;
+	margin-left: 63px !important;
+}
+
+.searches-span .btn-group ul {
+	min-width: 97px;
+}
+
+
+
+
+.searches-radio, .delay-radio {
+	padding-left: 0px;
+	padding-right: 0px;
+	width: 40px;
+}
+
+.radio-prepend {
+	margin-bottom: 0px;
+}
+
+.radio-prepend .add-on {
+	width: 61px;
+}
+
+
+
+#start-row {
+	text-align: center;
+}
+
+
+
+
+
+@media all and (max-width: 480px)  {
+	.span2a {
+        float: left !important;
+        width: 16.666666666% !important;
+    }  
+	.span4a {
+        float: left !important;
+        width: 33.333333333% !important;
+    }
+    .span6a {
+        float: left !important;
+        width: 50% !important;
+    }    
+    .span8a {
+        float: left !important;
+        width: 66.666666666% !important;
+    }   
+}
